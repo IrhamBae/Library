@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AljabarLibraries", "AljabarLibraries\AljabarLibraries.csproj", "{8CF58709-C96D-46AC-94DA-0BEDE0443B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Irham", "ConsoleApp_Irham\ConsoleApp_Irham.csproj", "{32AEAAC1-785F-411E-A971-9FECF58743FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF58709-C96D-46AC-94DA-0BEDE0443B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF58709-C96D-46AC-94DA-0BEDE0443B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF58709-C96D-46AC-94DA-0BEDE0443B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF58709-C96D-46AC-94DA-0BEDE0443B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AEAAC1-785F-411E-A971-9FECF58743FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AEAAC1-785F-411E-A971-9FECF58743FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AEAAC1-785F-411E-A971-9FECF58743FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AEAAC1-785F-411E-A971-9FECF58743FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA2EDBF-EDB0-4A00-ACE2-29A537B9AF9C}
+	EndGlobalSection
+EndGlobal
